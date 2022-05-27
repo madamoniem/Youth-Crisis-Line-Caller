@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582386416006",
+    "project_id": "yclapp-0",
+    "storage_bucket": "yclapp-0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582386416006:android:134cc8d35d0e81e1d39407",
+        "android_client_info": {
+          "package_name": "com.example.yclcall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582386416006-djocaem6dt00k8k9ffkjdviq21thdhvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfKavV9Hm0DG7Xj-8bXqctCh1wIf3z-eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582386416006-djocaem6dt00k8k9ffkjdviq21thdhvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
